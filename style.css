@@ -1,0 +1,55 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  width: 100%;
+  text-align: justify;
+  float: center;
+  display: flex;
+}
+
+li:hover {
+  background-color: #111;
+}
+
+li {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  padding: 20px;
+  width: 33%;
+  text-align: center;
+}
+
+a {
+  float: center;
+  display: inline;
+}
+
+.body {
+  text-align: center;
+}
+
+#main-heading {
+  text-align: center;
+  padding-top: 3%;
+  font-size: 65px;
+}
+
+#sub-heading {
+  text-align: center;
+  font-size: 30px;
+}
+
+#iphone-img {
+  width: 65%;
+  height: 65%;
+  align: center;
+  justify-content: center;
+  padding-left: 10%;
+}
+
+#link {
+  justify-content: center;
+}
